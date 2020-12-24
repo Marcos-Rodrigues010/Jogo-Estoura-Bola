@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(10, 9, 94);
+}
+.controle {
+    width: 112px;
+    height: auto;
+    top: 45%;
+    left: 48%;
+    margin-top: -55px;
+    margin-left: -52px;
+    position: absolute;
+}
+.placar {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    background-color: #007bff;
+    color: #FFF;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 3px;
+    padding: 8px;
+}
+.bola {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: skyblue;
+    position: absolute;
+}
+#pontos {
+    font-size: 40px;
+}
